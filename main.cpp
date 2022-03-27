@@ -45,3 +45,4 @@ return 0;
 }
 
 //doesnt have input validation that would result in a score value to be be inaccurate, and the app curently accepts other input than 'h' or 'l'.  
+//doesn't support the scenario where the the next card is the same value
